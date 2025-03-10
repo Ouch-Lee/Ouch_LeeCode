@@ -18,7 +18,17 @@
 
 
 
-
+| **函数**       | **功能描述**                   | **用法示例**                      |
+| -------------- | ------------------------------ | --------------------------------- |
+| `queue()`      | 构造一个空队列                 | `std::queue<int> q;`              |
+| `push(value)`  | 向队列末尾添加一个元素         | `q.push(10);`                     |
+| `emplace(...)` | 在队列末尾构造一个元素         | `q.emplace(20);`                  |
+| `pop()`        | 移除队列前端的元素（不返回值） | `q.pop();`                        |
+| `front()`      | 返回队列前端的元素（不移除）   | `int frontElement = q.front();`   |
+| `back()`       | 返回队列后端的元素（不移除）   | `int backElement = q.back();`     |
+| `empty()`      | 检查队列是否为空，返回布尔值   | `bool isEmpty = q.empty();`       |
+| `size()`       | 返回队列中元素的数量           | `size_t count = q.size();`        |
+| `swap(queue&)` | 交换两个队列的内容             | `std::queue<int> q2; q.swap(q2);` |
 
 ##  题目笔记
 

@@ -17,6 +17,7 @@ CMakeFiles/p2Re.dir/problem2Review.cpp.obj: E:/GitHub/leetCode/Huawei4-23/proble
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cpp_type_traits.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_forced.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_init_exception.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/deque.tcc \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception_defines.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception_ptr.h \
@@ -43,16 +44,20 @@ CMakeFiles/p2Re.dir/problem2Review.cpp.obj: E:/GitHub/leetCode/Huawei4-23/proble
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_construct.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_deque.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_function.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator_base_funcs.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator_base_types.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_pair.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_queue.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf.tcc \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf_iterator.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stringfwd.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cctype \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cerrno \
@@ -64,6 +69,7 @@ CMakeFiles/p2Re.dir/problem2Review.cpp.obj: E:/GitHub/leetCode/Huawei4-23/proble
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/assertions.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/debug.h \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/deque \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/exception \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/alloc_traits.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/atomicity.h \
@@ -78,6 +84,7 @@ CMakeFiles/p2Re.dir/problem2Review.cpp.obj: E:/GitHub/leetCode/Huawei4-23/proble
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/new \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream \
+  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/queue \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdexcept \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdlib.h \
   D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/streambuf \
@@ -181,12 +188,6 @@ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/charconv.h:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/concept_check.h:
 
-D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
-
-D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h:
-
-D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/assertions.h:
-
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator.h:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cpp_type_traits.h:
@@ -202,6 +203,14 @@ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/clocale:
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/cxxabi_init_exception.h:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_deque.h:
+
+D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdlib.h:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/deque.tcc:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/exception.h:
 
@@ -261,19 +270,21 @@ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_iterator_base_funcs.h:
 
-D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwchar:
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_queue.h:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstdio:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf.tcc:
 
-D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype:
-
 D:/MinGW/mingw64/x86_64-w64-mingw32/include/swprintf.inl:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/streambuf_iterator.h:
 
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h:
+
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/queue:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cerrno:
 
@@ -285,7 +296,19 @@ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ostream:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cstdlib:
 
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwchar:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cwctype:
+
+D:/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
+
+D:/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/assertions.h:
+
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/debug/debug.h:
+
+D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/deque:
 
 D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/exception:
 
@@ -404,8 +427,6 @@ D:/MinGW/mingw64/x86_64-w64-mingw32/include/signal.h:
 D:/MinGW/mingw64/x86_64-w64-mingw32/include/stddef.h:
 
 D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdint.h:
-
-D:/MinGW/mingw64/x86_64-w64-mingw32/include/stdlib.h:
 
 D:/MinGW/mingw64/x86_64-w64-mingw32/include/sys/timeb.h:
 

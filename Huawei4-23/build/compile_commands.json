@@ -1,8 +1,8 @@
 [
 {
   "directory": "E:/GitHub/leetCode/Huawei4-23/build",
-  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p2Re.dir\\problem2Review.cpp.obj -c E:\\GitHub\\leetCode\\Huawei4-23\\problem2Review.cpp",
-  "file": "E:/GitHub/leetCode/Huawei4-23/problem2Review.cpp",
-  "output": "CMakeFiles/p2Re.dir/problem2Review.cpp.obj"
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p1Rev.dir\\p1XY.cpp.obj -c E:\\GitHub\\leetCode\\Huawei4-23\\p1XY.cpp",
+  "file": "E:/GitHub/leetCode/Huawei4-23/p1XY.cpp",
+  "output": "CMakeFiles/p1Rev.dir/p1XY.cpp.obj"
 }
 ]

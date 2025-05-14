@@ -1,5 +1,4 @@
-CMakeFiles/p2Re.dir/problem2Review.cpp.obj: \
- E:\GitHub\leetCode\Huawei4-23\problem2Review.cpp \
+CMakeFiles/p1Rev.dir/p1XY.cpp.obj: E:\GitHub\leetCode\Huawei4-23\p1XY.cpp \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -137,10 +136,23 @@ CMakeFiles/p2Re.dir/problem2Review.cpp.obj: \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/queue \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/deque \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_deque.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/deque.tcc \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/unordered_map \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable_policy.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/tuple \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/array \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/invoke.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unordered_map.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/erase_if.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath \
+ D:/MinGW/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/algorithm \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algo.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/algorithmfwd.h \
  D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_queue.h \
- D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uses_allocator.h
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h \
+ D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h

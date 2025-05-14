@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\p1Rev.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe qc CMakeFiles\p1Rev.dir/objects.a @CMakeFiles\p1Rev.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\p1Rev.dir/objects.a -Wl,--no-whole-archive -o E:\GitHub\leetCode\Huawei4-23\bin\p1Rev.exe -Wl,--out-implib,E:\GitHub\leetCode\Huawei4-23\bin\libp1Rev.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\p1Rev.dir\linkLibs.rsp

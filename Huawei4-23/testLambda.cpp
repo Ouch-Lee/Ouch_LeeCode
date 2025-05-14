@@ -25,7 +25,7 @@ int main()
 {
     vector<int> numbers = {3, 2, 1, 5, 4};
     sort(numbers.begin(), numbers.end(), [](int a, int b) -> bool{
-        return a > b;
+        return a < b;
     });
     for (int num : numbers) {
         cout << num << " ";  // 输出: 5 4 3 2 1

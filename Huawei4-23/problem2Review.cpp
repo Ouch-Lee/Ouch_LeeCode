@@ -37,8 +37,28 @@ int main()
 
     while (!que.empty())
     {
-        
+        // 获取当前节点
+        NodeState cur = que.front();
+        que.pop();
+        // 当前节点颜色，及其目标颜色
+        int id = cur.idx;
+        int sh = cur.shift;
+        int initClr = colorVal(inital[id]);
+        int tarClr = colorVal(traget[id]);
+
+        // 经过sh后颜色变为
+        int nowClr = (initClr + sh) % 3;
+        int press = (tarClr - nowClr + 3) % 3;
+
+        result += press;
+        int newShift = (sh + press) % 3;
+        // 处理子节点
+        int left_id = 2 * id + 1; int right_id = 2 * id + 2;
+        NodeState leftNode = {left_id, newShift};
+        NodeState rightNode = {right_id, newShift};
+        if (left_id < n && inital[left_id] != 0) que.push(leftNode);
+        if (right_id < n && inital[right_id] != 0) que.push(rightNode);
     }
-    
+    cout << result << endl;
     return 0;
 }

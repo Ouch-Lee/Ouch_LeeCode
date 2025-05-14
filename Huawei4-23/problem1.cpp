@@ -39,7 +39,7 @@ int main()
         }
     }
 
-    sort(v.begin(), v.end(), [](const Pixel &a, const Pixel &b){
+    sort(v.begin(), v.end(), [](const Pixel &a, const Pixel &b) -> bool {
         if (a.dist != b.dist) return a.dist < b.dist;
         if (a.x != b.x) return a.x < b.x;
         return a.y < b.y;

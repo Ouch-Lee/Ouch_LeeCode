@@ -44,7 +44,7 @@ int main()
 
         if (initial[i] == 0) continue;
 
-        int initClr = colorVal(initial[i]);
+        int initClr = colorVal(initial[i]); // 
         int targClr = colorVal(target[i]);
 
         int nowClr = (initClr + sh) % 3;

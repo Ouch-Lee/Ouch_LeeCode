@@ -28,7 +28,6 @@ int lengthOfLongestSubstring(string s) {
         hashArr[s[i] - 'a']++;
         if (isRepeat(hashArr)) // 有重复
         {
-            cout << "cur index = " << i << endl;
             while (the_que.front() != s[i])
             {
                 the_que.pop();
@@ -37,7 +36,6 @@ int lengthOfLongestSubstring(string s) {
             the_que.pop();
             len--;
             hashArr[s[i] - 'a']--;
-            cout << "cur len " << len << endl;
             result = len > result ? len : result;
         }
     }

@@ -31,7 +31,8 @@
 一些题目：
 
 * [**217. 存在重复元素**](https://leetcode.cn/problems/contains-duplicate/submissions/632816012/)
-* 
+* [**219. 存在重复元素 II**](https://leetcode.cn/problems/contains-duplicate-ii/submissions/633097692/)
+* [**202. 快乐数**](https://leetcode.cn/problems/happy-number/description/)
 
 ## queue
 

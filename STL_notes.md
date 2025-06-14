@@ -3,16 +3,17 @@
 所有的容器无非是下面几种应用
 
 * 创建
-
 * 插入 :  有的容器叫insert，有的叫push，有的叫push_back，让AI总结一下
-
 * 删除
-
 * 查找
-
 * 是否为空
 
-  
+
+
+
+## string
+
+
 
 ## set
 
@@ -71,13 +72,16 @@ API：
 例题
 
 * [**1. 两数之和**](https://leetcode.cn/problems/two-sum/)
+* [**242. 有效的字母异位词**](https://leetcode.cn/problems/valid-anagram/)
+* [**387. 字符串中的第一个唯一字符**](https://leetcode.cn/problems/first-unique-character-in-a-string/description/)
+* [**454. 四数相加 II**](https://leetcode.cn/problems/4sum-ii/)
 
 ## queue
 
 队列算是我笔记熟悉的数据结构了，因为我脑子里面有一个可视化的FIFO模型，这个方法可以拓展到其它结构；队列主
 
-* push()
-* pop()
+* push() 栈与队列不是直接push在后面，也不是直接随机插入，而是有规律的放置，因此是push
+* pop()：弹出
 * front() / back()
 
 
@@ -92,5 +96,10 @@ API：
 
 ## stack
 
+同样，栈与队列是双子星
 
+* push()
+* pop()
+* top()
+* empty()
 

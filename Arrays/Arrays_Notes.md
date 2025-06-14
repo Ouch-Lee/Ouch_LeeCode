@@ -1,5 +1,37 @@
 
 
+## 二分法
+
+指针初始化
+
+| -          | L    | R    |      |
+| ---------- | ---- | ---- | ---- |
+| 左闭右 [ ] | 0    | n-1  |      |
+| 左开右开   | -1   | n    |      |
+|            |      |      |      |
+|            |      |      |      |
+
+
+
+* 左闭右闭
+
+  比较能理解的就是左闭右闭，因为
+
+  ```
+  int n = nums.size();
+          int left = 0, right = n-1;
+          while (left <= right)
+          {
+              int mid = left + (right - left) / 2;
+              if (nums[mid] < target) left = mid + 1;
+              else if (nums[mid] > target) right = mid - 1;
+              else if (nums[mid] == target) return mid;
+          }
+          return -1;
+  ```
+
+  
+
 
 
 ## 长度最小的子数组
